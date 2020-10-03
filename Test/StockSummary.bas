@@ -1,4 +1,4 @@
-Attribute VB_Name = "StockSummary"
+
 Sub StockSummary():
 
 
