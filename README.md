@@ -1,7 +1,7 @@
 # VBA-challenge
-This assignment has two folders:
+##**This assignment has two folders:**
 
-    1) Final Results - Actual Submissions for the 
+###    1) Final Results - Actual Submissions for the 
     
         This includes:
        
@@ -12,7 +12,7 @@ This assignment has two folders:
           VBA Script for the Challenge section
           
           
-    2) Test - where I have tested my codes on the Testing xlsm file.
+###    2) Test - where I have tested my codes on the Testing xlsm file.
     
         This includes:
        
