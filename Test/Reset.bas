@@ -1,4 +1,4 @@
-Attribute VB_Name = "Reset"
+
 Sub Reset():
 
 Dim ws As Worksheet
