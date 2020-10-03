@@ -13,7 +13,7 @@ This assignment has two folders:
           
     b) Final Results - Actual Submissions for the 
     
-    This includes:
+        This includes:
        
           Word Document Outputs for the Stock Summary and Challenge
           
