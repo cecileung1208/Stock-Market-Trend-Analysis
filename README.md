@@ -5,13 +5,12 @@
     
         This includes:
        
-          Word Document [Outputs](https://github.com/cecileung1208/VBA-challenge/blob/main/Final%20Results/VBA%20Homework%20-%20Output.docx) for the Stock Summary and Challenge
+          Word Document for the Stock Summary and Challenge
           
           VBA Script for the Stock Summary 
           
           VBA Script for the Challenge section
-        This is [an example](http://example.com/ "Title") inline link.
-          
+       
           
 ###    2) Test - where I have tested my codes on the Testing xlsm file.
     
