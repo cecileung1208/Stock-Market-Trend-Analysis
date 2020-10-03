@@ -1,7 +1,18 @@
 # VBA-challenge
 This assignment has two folders:
 
-    a) Test - where I have tested my codes on the Testing xlsm file.
+    1) Final Results - Actual Submissions for the 
+    
+        This includes:
+       
+          Word Document Outputs for the Stock Summary and Challenge
+          
+          VBA Script for the Stock Summary 
+          
+          VBA Script for the Challenge section
+          
+          
+    2) Test - where I have tested my codes on the Testing xlsm file.
     
         This includes:
        
@@ -11,14 +22,5 @@ This assignment has two folders:
           
           VBA Script for Resetting the tables to test the codes.
           
-    b) Final Results - Actual Submissions for the 
-    
-        This includes:
-       
-          Word Document Outputs for the Stock Summary and Challenge
-          
-          VBA Script for the Stock Summary 
-          
-          VBA Script for the Challenge section
           
      
