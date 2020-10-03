@@ -1,5 +1,5 @@
 # VBA-challenge
-##**This assignment has two folders:**
+## **This assignment has two folders:**
 
 ###    1) Final Results - Actual Submissions for the 
     
