@@ -21,6 +21,11 @@ This assignment has two folders:
           VBA Script for the Challenge section
           
           VBA Script for Resetting the tables to test the codes.
-          
+    
+    Note:  When running the script, please run the script in the following order:
+    
+        1)  Stock Summary Script
+        
+        2)  Stock Challenge Script
           
      
