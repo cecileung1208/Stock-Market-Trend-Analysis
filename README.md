@@ -5,11 +5,11 @@ This assignment has two folders:
     
         This includes:
        
-          BAS codes for the Stock Summary 
+          VBA Script for the Stock Summary 
           
-          BAS codes for the Challenge section
+          VBA Script for the Challenge section
           
-          BAS codes for Resetting the tables to test the codes.
+          VBA Script for Resetting the tables to test the codes.
           
     b) Final Results - Actual Submissions for the 
     
@@ -17,8 +17,8 @@ This assignment has two folders:
        
           Word Document Outputs for the Stock Summary and Challenge
           
-          BAS codes for the Stock Summary 
+          VBA Script for the Stock Summary 
           
-          BAS codes for the Challenge section
+          VBA Script for the Challenge section
           
      
