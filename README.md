@@ -1,7 +1,7 @@
 # VBA-challenge
-## **This assignment has two folders:**
+## **This Homework has two folders:**
 
-###    1) Final Results - Actual Submissions for the 
+###    1) Final Results - Actual Submissions for the HomeWork
     
         This includes:
        
@@ -22,7 +22,7 @@
           
           VBA Script for Resetting the tables to test the codes.
     
-    Note:  When running the script, please run the script in the following order:
+  **Note:  When running the script, please run the script in the following order:**
     
         1)  Stock Summary Script
         
