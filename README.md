@@ -1,6 +1,14 @@
-# VBA-challenge
+# Stock Market Trend Analysis
 
-## **This Homework has 2 Folders:**
+## Background Information**
+
+## Requirements
+
+## Resources Used
+
+## Method 
+
+## Results
 
 ### **1.  Final Results**
 
