@@ -10,23 +10,17 @@ The purpose of this project is to determine the annual changes for all the stock
 #### 1. Create a VBA script that will display the following information for each stock:
 
 * Ticker Symbol
-* Annual Change between:
-    * Opening Price at the Beginning of the Year
-    * Closing Price at the End of the Year
-* Percent Change between: 
-    * Opening Price at the Beginning of the Year
-    * Closing Price at the End of the Year
+* Annual Change between Beginning Year Opening Price and Ending Year Closing Price 
+* Percent Change between Beginning Year Opening Price Ending Year Closing Price 
 * Total Stock Volume
 
 #### 2. Use conditional formatting that will highlight positive change in green and negative change in red.
 
-## Resources
 
-### Datasets:
+## Datasets:
+* [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsx)
 
-1  [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsx)
-
-2. [Single Year Stock Data (Test)](https://github.com/cecileung1208/VBA-challenge/blob/main/Test/Unit%202%20-%20VBA_Homework_Instructions_Resources_alphabetical_testing%20-%20Verifying.xlsm) t
+* [Single Year Stock Data (Test)](https://github.com/cecileung1208/VBA-challenge/blob/main/Test/Unit%202%20-%20VBA_Homework_Instructions_Resources_alphabetical_testing%20-%20Verifying.xlsm) 
 
 ## Method 
 
