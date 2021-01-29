@@ -1,6 +1,6 @@
 # Stock Market Trend Analysis
 
-## Background Information**
+## Background Information
 
 ## Requirements
 
