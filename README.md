@@ -7,18 +7,18 @@ The purpose of this project is to determine the annual changes for all the stock
 
 ## Requirements
 
-1. Create a VBA script that will display the results of the following information for each stock:
+#### 1. Create a VBA script that will display the results of the following information for each stock:
 
-* Ticker Symbol
+* Ticker Symbol<br>
 * Annual Change between:
     * Opening Price at the Beginning of the Year
-    * Closing Price at the End of the Year
+    * Closing Price at the End of the Year<br>
 * Percent Change between: 
     * Opening Price at the Beginning of the Year
     * Closing Price at the End of the Year
 * Total Stock Volume
 
-2. Use conditional formatting that will highlight positive change in green and negative change in red.
+#### 2. Use conditional formatting that will highlight positive change in green and negative change in red.
 
 ## Resources
 
