@@ -9,7 +9,7 @@ The purpose of this project is to determine the annual changes for all the stock
 
 #### 1. Create a VBA script that will display the results of the following information for each stock:
 
-* Ticker Symbol<br>
+* Ticker Symbol
 * Annual Change between:
     * Opening Price at the Beginning of the Year
     * Closing Price at the End of the Year<br>
@@ -22,9 +22,11 @@ The purpose of this project is to determine the annual changes for all the stock
 
 ## Resources
 
-Datasets:
+### Datasets:
 
 1.  [Excel Test File](https://github.com/cecileung1208/VBA-challenge/blob/main/Test/Unit%202%20-%20VBA_Homework_Instructions_Resources_alphabetical_testing%20-%20Verifying.xlsm) to ensure that the code runs properly and the results match by validating against the excel formula.
+
+2.  [Exc
 ## Method 
 
 ## Results
