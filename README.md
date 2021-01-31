@@ -17,9 +17,9 @@ The purpose of this project is to determine the annual changes for all the stock
 
 #### 3. Upon retrieving these results, determine the ticker symbol with the following:
 
-* Greatest Increase in Annual Percent Price Change
-* Greatest Decrease in Annual Percent Price Change
-* Greatest Annual Total Stock Volume
+* Greatest Increase in Yearly Percent Price Change
+* Greatest Decrease in Yearly Percent Price Change
+* Greatest Yearly Total Stock Volume
 
 ## Datasets:
 * [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsx)
@@ -32,13 +32,14 @@ The purpose of this project is to determine the annual changes for all the stock
   * Determine the opening price for the first day of the year and the closing price for the last day of the year to calculate price change and % price change.
 * Write a VBA script that displays the following: 
   * Stock Ticker Symbol
-  * Annual Price Change
-  * Annual % Price Change
-  * Annual total stock volume.
+  * Yearly Price Change
+  * Yearly % Price Change
+  * Yearly total stock volume.
+  * Apply Conditional Formatting to the Yearly Price Change
 * Upon successfully displaying the above information, write another VBA script based on the results to determine the following:
-  * Greatest annual increase in percent price change 
-  * Greatest annual decrease in ppercent price change 
-  * Greatest annual total volume.
+  * Yearly annual increase in percent price change 
+  * Yearly annual decrease in ppercent price change 
+  * Yearly annual total volume.
 * Repeat process for the Multiple Year Stock Data.
 
 
