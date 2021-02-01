@@ -40,17 +40,16 @@ The purpose of this project is to determine the annual changes for all the stock
   * Apply Conditional Formatting to the Yearly Price Change
 * Upon successfully displaying the above information, write another VBA script based on the results to determine the following:
   * Yearly annual increase in percent price change 
-  * Yearly annual decrease in ppercent price change 
+  * Yearly annual decrease in percent price change 
   * Yearly annual total volume.
 * Repeat process for the Multiple Year Stock Data.
 
 
 ## Results
 
+Upon conducting the analysis from writing the VBA scripts for [individual stock analyis](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockSummaryFinal.bas) and the [stock summary]((https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockChallengeFinal.bas)), the results are shown below for 2014-2016:
+
 2014
-
-Based on the results in the below image, the 2014 results show that:
-
  * Ticker DM has the Maximum % Price Increase at 5,581.60%
  * Ticker CBO has the Minimum % Price Decrease at 95.73%
  * Ticker BAC has the Highest Stock Volume at 21,595,474,700 shares
@@ -58,9 +57,6 @@ Based on the results in the below image, the 2014 results show that:
 ![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2014%20Results.png)
 
 2015
-
-Based on the results in the below image, the 2015 results show that:
-
  * Ticker ARR has the Maximum % Price Increase at 491.30%
  * Ticker KMI.W has the Minimum % Price Decrease at 98.59%
  * Ticker BAC has the Highest Stock Volume at 21,277,761,900 shares
@@ -68,9 +64,6 @@ Based on the results in the below image, the 2015 results show that:
 ![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2015%20Results.png)
 
 2016
-
-Based on the results in the below image, the 2016 results show that:
-
  * Ticker SD has the Maximum % Price Increase at 11,675.00%
  * Ticker DYN.W has the Minimum % Price Decrease at 91.49%
  * Ticker BAC has the Highest Stock Volume at 27,428,529,600 shares
