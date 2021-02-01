@@ -47,7 +47,7 @@ The purpose of this project is to determine the annual changes for all the stock
 
 ## Results
 
-Upon conducting the analysis from writing the VBA scripts for [individual stock analyis](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockSummaryFinal.bas) and the [stock summary]((https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockChallengeFinal.bas)), the results are shown below for 2014-2016:
+Upon conducting the analysis from writing the VBA scripts for [individual stock analyis](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockSummaryFinal.bas) and the [stock summary](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockChallengeFinal.bas)), the results are as follows:
 
 2014
  * Ticker DM has the Maximum % Price Increase at 5,581.60%
