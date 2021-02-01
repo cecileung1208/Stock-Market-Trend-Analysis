@@ -60,7 +60,7 @@ Based on the results in the below image, the 2014 results show that:
 Based on the results in the below image, the 2015 results show that:
 
  * Ticker ARR has the Maximum % Price Increase at 491.30%
- * Ticker KRI.W has the Minimum % Price Decrease at 98.59%
+ * Ticker KMI.W has the Minimum % Price Decrease at 98.59%
  * Ticker BAC has the Highest Stock Volume at 21,277,761,900 shares
  
 ![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2015%20Results.png)
