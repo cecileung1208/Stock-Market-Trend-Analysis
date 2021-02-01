@@ -1,5 +1,7 @@
 # Stock Market Trend Analysis
 
+![Image](https://www.xm.com/wp-content/uploads/2019/07/Stock-Charts-2.jpg)
+
 ## Background 
 
 The purpose of this project is to determine the annual changes for all the stocks listed in the US stock exchange during 2014-2016.  To accomplish this, a VBA script will be written from the given CSV datasets.
