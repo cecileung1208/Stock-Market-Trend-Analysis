@@ -9,17 +9,17 @@ The purpose of this project is to determine the annual changes for all the stock
 #### 1. Create a VBA script that will display the following information for each stock:
 
 * Ticker Symbol
-* Annual Price Change between Beginning Year Opening Price and Ending Year Closing Price 
-* Annual Percent Price Change between Beginning Year Opening Price Ending Year Closing Price 
+* Annual Price Change 
+* Annual Percent Price Change 
 * Annual Total Stock Volume
 
 #### 2. Use conditional formatting that will highlight positive change in green and negative change in red.
 
 #### 3. Upon retrieving these results, determine the ticker symbol with the following:
 
-* Greatest Increase in Annual Percent Price Change
-* Greatest Decrease in Annual Percent Price Change
-* Greatest Annual Total Stock Volume
+* Greatest Increase in Yearly Percent Price Change
+* Greatest Decrease in Yearly Percent Price Change
+* Greatest Yearly Total Stock Volume
 
 ## Datasets:
 * [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsx)
@@ -27,6 +27,20 @@ The purpose of this project is to determine the annual changes for all the stock
 * [Single Year Stock Data (Test)](https://github.com/cecileung1208/VBA-challenge/blob/main/Test/Unit%202%20-%20VBA_Homework_Instructions_Resources_alphabetical_testing%20-%20Verifying.xlsm) 
 
 ## Method 
+* Start with the Single Year Stock Data and do the following for all stocks:
+  * Sort the data in chronological order for all stocks.
+  * Determine the opening price for the first day of the year and the closing price for the last day of the year to calculate price change and % price change.
+* Write a VBA script that displays the following: 
+  * Stock Ticker Symbol
+  * Yearly Price Change
+  * Yearly % Price Change
+  * Yearly total stock volume.
+  * Apply Conditional Formatting to the Yearly Price Change
+* Upon successfully displaying the above information, write another VBA script based on the results to determine the following:
+  * Yearly annual increase in percent price change 
+  * Yearly annual decrease in ppercent price change 
+  * Yearly annual total volume.
+* Repeat process for the Multiple Year Stock Data.
 
 
 ## Results
