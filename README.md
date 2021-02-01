@@ -24,31 +24,42 @@ The purpose of this project is to determine the annual changes for all the stock
 * Greatest Yearly Total Stock Volume
 
 ## Datasets:
+
+* [Single Year Stock Data - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Single%20Year%20Stock%20Data.xlsm) 
+
 * [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsm)
 
-* [Single Year Stock Data (Test)](https://github.com/cecileung1208/VBA-challenge/blob/main/Test/Unit%202%20-%20VBA_Homework_Instructions_Resources_alphabetical_testing%20-%20Verifying.xlsm) 
 
 ## Method 
 * Start with the Single Year Stock Data and do the following for all stocks:
   * Sort the data in chronological order for all stocks.
   * Determine the opening price for the first day of the year and the closing price for the last day of the year to calculate price change and % price change.
-* Write a VBA script that displays the following: 
+* Write a VBA script for Individual Stock Analysis that displays the following:
   * Stock Ticker Symbol
   * Yearly Price Change
   * Yearly % Price Change
-  * Yearly total stock volume.
+  * Yearly total stock volume
   * Apply Conditional Formatting to the Yearly Price Change
-* Upon successfully displaying the above information, write another VBA script based on the results to determine the following:
-  * Yearly annual increase in percent price change 
-  * Yearly annual decrease in percent price change 
-  * Yearly annual total volume.
+* Upon successfully obtaining the results from the Individual Stock Analysis , write another VBA script for Multiple Stock Analysis that displays the following:
+  * Stock Ticker with Maximum Increase in % Price Change and the % Amount
+  * Stock Ticker with Maximum Decrease in % Price Change and the % Amount
+  * Stock Ticker with Maximum Stock Volume and the number of shares
 * Repeat process for the Multiple Year Stock Data.
 
 
+## VBA Scripts
+
+The following scripts are written for the given CSV Datasets:
+
+* [Single Year Stock Data - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Single%20Year%20Stock%20Data.xlsm)
+ * [Individual Stock Summary - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Individual%20Stock%20Summary%20-%20Test.bas)
+ * [Multiple Stock Analysis - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Multiple%20Stock%20Summary%20-%20Test.bas)
+ 
+* [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsm)
+ * [Individual Stock Summary - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Individual%20Stock%20Summary%20-%20Final.bas)
+ * [Multiple Stock Analysis - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple%20Stock%20Summary%20-%20Final.bas)
+
 ## Results
-
-Upon conducting the analysis from writing the VBA scripts for [individual stock analyis](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockSummaryFinal.bas) and the [stock summary](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/StockChallengeFinal.bas)), the results are as follows:
-
 2014
  * Ticker DM has the Maximum % Price Increase at 5,581.60%
  * Ticker CBO has the Minimum % Price Decrease at 95.73%
