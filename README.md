@@ -52,12 +52,12 @@ The purpose of this project is to determine the annual changes for all the stock
 The following scripts are written for the given CSV Datasets:
 
 * [Single Year Stock Data - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Single%20Year%20Stock%20Data.xlsm)
- * [Individual Stock Summary - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Individual%20Stock%20Summary%20-%20Test.bas)
- * [Multiple Stock Analysis - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Multiple%20Stock%20Summary%20-%20Test.bas)
+  * [Individual Stock Summary - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Individual%20Stock%20Summary%20-%20Test.bas)
+  * [Multiple Stock Analysis - Test](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Test/Multiple%20Stock%20Summary%20-%20Test.bas)
  
 * [Multiple Year Stock Data](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple_year_stock_data.xlsm)
- * [Individual Stock Summary - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Individual%20Stock%20Summary%20-%20Final.bas)
- * [Multiple Stock Analysis - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple%20Stock%20Summary%20-%20Final.bas)
+  * [Individual Stock Summary - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Individual%20Stock%20Summary%20-%20Final.bas)
+  * [Multiple Stock Analysis - Final](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Final%20Results/Multiple%20Stock%20Summary%20-%20Final.bas)
 
 ## Results
 2014
