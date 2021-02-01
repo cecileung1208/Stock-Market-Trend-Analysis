@@ -45,3 +45,36 @@ The purpose of this project is to determine the annual changes for all the stock
 
 ## Results
 
+2014
+
+Based on the results in the below image, the 2014 results show that:
+
+ * Ticker DM has the Maximum % Price Increase at 5,581.60%
+ * Ticker CBO has the Minimum % Price Decrease at 95.73%
+ * Ticker BAC has the Highest Stock Volume at 21,595,474,700 shares
+
+![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2014%20Results.png)
+
+2015
+
+Based on the results in the below image, the 2015 results show that:
+
+ * Ticker ARR has the Maximum % Price Increase at 491.30%
+ * Ticker KMI.W has the Minimum % Price Decrease at 98.59%
+ * Ticker BAC has the Highest Stock Volume at 21,277,761,900 shares
+ 
+![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2015%20Results.png)
+
+2016
+
+Based on the results in the below image, the 2016 results show that:
+
+ * Ticker SD has the Maximum % Price Increase at 11,675.00%
+ * Ticker DYN.W has the Minimum % Price Decrease at 91.49%
+ * Ticker BAC has the Highest Stock Volume at 27,428,529,600 shares
+
+![Image](https://github.com/cecileung1208/Stock-Market-Trend-Analysis/blob/main/Images/2016%20Results.png)
+
+
+
+
