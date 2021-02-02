@@ -1,6 +1,6 @@
 # Stock Market Trend Analysis
 
-![Image](https://www.xm.com/wp-content/uploads/2019/07/Stock-Charts-2.jpg)
+![Image](https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2018/12/20/USATODAY/usatsports/stock-market-price-ticker-display.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
 
 ## Background 
 
